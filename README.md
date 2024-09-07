@@ -26,7 +26,14 @@ ChitChat is an Android application that uses OpenAI's GPT API to create an inter
 - RecyclerView implementation for an optimized chat experience.
 
 ## Images
-<img src="screenshots/Screenshot_2024-08-26-17-45-43-05_9a3c0f303d55a4678b3df58d675dc03a.jpg" alt="App Screenshot" width="250"/>
+<p align="center">
+    <img src="Images/ss1_lightmode.jpg" height="600" width="300" alt="Error">
+    <img src="Images/ss2_lightmode.jpg" height="600" width="300" alt="Error">
+</p>
+<p align="center">
+    <img src="Images/ss1_darkmode.jpg" height="600" width="300" alt="Error">
+    <img src="Images/ss2_darkmode.jpg" height="600" width="300" alt="Error">
+</p>
 
 ## Installation
 
