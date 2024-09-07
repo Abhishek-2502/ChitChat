@@ -6,16 +6,15 @@ ChitChat is an Android application that uses OpenAI's GPT API to create an inter
 
 - [Features](#features)
 - [Images](#images)
-- [Modules](#modules)
-- [Entities and Attributes](#entities-and-attributes)
-- [Relationships](#relationships)
-- [Relational Schema](#relational-schema)
-- [ER Diagram](#er-diagram)
-- [Use Case Diagram](#use-case-diagram)
-- [System Architecture](#system-architecture)
-- [Technology Stack](#technology-stack)
-- [Frontend Sample](#frontend-sample)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Code Walkthrough](#code-walkthrough)
+- [API Integration](#api-integration)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
 - [Author](#author)
+
 
 ## Features
 
@@ -100,3 +99,8 @@ ChitChat is an Android application that uses OpenAI's GPT API to create an inter
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Abhishek Rajput
+
